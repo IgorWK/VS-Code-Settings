@@ -1,4 +1,4 @@
-# Dillinger
+# VS Code Settings
 ## Extensions
 
 - [Deprecated] Bracket Pair Colorizer 2
