@@ -1,6 +1,5 @@
 # VS Code Settings
 ## Extensions
-
 - [Deprecated] Bracket Pair Colorizer 2
 - Auto Rename Tag
 - Auto Rename Tag
